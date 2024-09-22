@@ -35,7 +35,7 @@
             </div>
         </header>
         <main class="container mx-auto mt-10 p-6 bg-white shadow-lg rounded-lg flex-grow">
-            <h1 class="text-2xl font-bold text-center">Hello World, welcome to {{ config('app.name') }}</h1>
+            <h1 class="text-2xl font-bold text-center">Salut World, welcome to {{ config('app.name') }}</h1>
         </main>
         <footer class="p-4 mt-10" style="background-color: #2ab7b7;">
             <div class="container mx-auto text-center text-white">
